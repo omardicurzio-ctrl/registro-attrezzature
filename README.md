@@ -129,3 +129,5 @@ Cloudflare Pages.
 - **Nuove categorie**: aggiungibili direttamente in tabella
   `asset_categories` dal Table Editor di Supabase, scegliendo un'icona tra
   quelle mappate in `ICONS` (`AssetRegistry.jsx`).
+
+  
